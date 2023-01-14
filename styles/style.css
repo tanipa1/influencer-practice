@@ -1,0 +1,30 @@
+/* nav style */
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 60px 0px 60px;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+    margin-left: 34px;
+
+}
+
+li a {
+    text-decoration: none;
+    color: #3A3A3A;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.nav-title {
+    font-weight: 700;
+    font-size: 24px;
+    color: #3A3A3A;
+}
